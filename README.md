@@ -1,4 +1,5 @@
-Este script em Python permite remover palavras, frases e CPFs de arquivos PDF sem alterar o fundo ou layout visual.
+*Este script em Python permite remover palavras, frases e CPFs de arquivos PDF sem alterar o fundo ou layout visual.*
+
 
 
 
@@ -18,6 +19,7 @@ Palavras/frases para remover (separadas por vírgula): confidencial,teste
 Marcas a remover (separadas por vírgula): rascunho
 Remover CPFs automaticamente? (s/n): s
 
+
 📌 Resultado:
 
 Para cada PDF informado, gera um novo arquivo com sufixo _limpo.pdf na mesma pasta.
@@ -27,6 +29,7 @@ Exemplo:
 contrato.pdf → contrato_limpo.pdf
 
 relatorio.pdf → relatorio_limpo.pdf
+
 
 📂 Exemplo de Saída
 
@@ -42,6 +45,8 @@ C:\Users\User\Documentos\contrato_limpo.pdf
 
 C:\Users\User\Documentos\relatorio_limpo.pdf
 
+
+
 ⚠️ Observações Importantes
 
 O script não sobrescreve os arquivos originais.
@@ -51,6 +56,7 @@ Para processar múltiplos arquivos, separe os caminhos por vírgula.
 Se a opção de CPF estiver habilitada, ele removerá tanto CPFs no formato 000.000.000-00 quanto os de 11 dígitos contínuos.
 
 Caso um arquivo não seja encontrado ou ocorra erro, o script exibirá no final uma lista de erros.
+
 
 
           ／＞　 フ
