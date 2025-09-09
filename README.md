@@ -64,9 +64,5 @@ Caso um arquivo não seja encontrado ou ocorra erro, o script exibirá no final 
       ／` ミ＿xノ 
      /　　　　 |
     /　 ヽ　　 ﾉ
-   │　　|　|　|
-／￣|　　 |　|　|
-(￣ヽ＿_ヽ_)__)
-＼二)
 
 🗡️ SAMURAI 🗡️
